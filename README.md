@@ -1,6 +1,6 @@
 # 🪟 Win11 GlazeWM Rice
-<img width="2048" height="1283" alt="image" src="https://github.com/user-attachments/assets/76e5210a-0066-4a58-a905-8400590b2d61" />
 A clean and minimal Windows setup built around **GlazeWM** for dynamic tiling and **YASB** for a stylish status bar — with **Flow Launcher** and **Fastfetch** to round out the workflow.
+<img width="2048" height="1283" alt="image" src="https://github.com/user-attachments/assets/76e5210a-0066-4a58-a905-8400590b2d61" />
 
 ---
 
