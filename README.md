@@ -22,7 +22,7 @@ A clean and minimal Windows setup built around **GlazeWM** for dynamic tiling an
 ### Install Dependencies
 Install required tools:
 - [GlazeWM](https://github.com/glzr-io/glazewm)
-- [YASB](https://github.com/glzr-io/yasb)
+- [YASB](https://github.com/amnweb/yasb)
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [Oh-My-Posh](https://ohmyposh.dev)
 - [Flow Launcher](https://www.flowlauncher.com/)
@@ -31,12 +31,12 @@ Install required tools:
 
 ### 🗂️ Configuration Locations
 
-| Tool / Component | Config Path | Description |
-|------------------|-------------|--------------|
-| **GlazeWM** | `%USERPROFILE%\.glzr\glazewm` | Manages window tiling, layouts, workspaces, and keyboard shortcuts. |
-| **YASB (Yet Another Status Bar)** | `%USERPROFILE%\.config\yasb` | Controls the bar layout, icons, modules, and system info display. |
-| **Fastfetch** | `%USERPROFILE%\.config\fastfetch` | Terminal system info tool (like Neofetch) that shows hardware and OS info. |
-| **PowerShell** | `%USERPROFILE%\Documents\WindowsPowerShell` | PowerShell profile, aliases, and optional prompt theme (e.g. Oh-My-Posh). |
-| **Flow Launcher** | `C:\Users\%UserProfile%\AppData\Roaming\FlowLauncher\Themes\` | Theming and color customization for Flow Launcher — matches your system rice aesthetic. |
+| Tool / Component | Config Path | 
+|------------------|-------------|
+| **GlazeWM** | `%USERPROFILE%\.glzr\glazewm` |
+| **YASB (Yet Another Status Bar)** | `%USERPROFILE%\.config\yasb` |
+| **Fastfetch** | `%USERPROFILE%\.config\fastfetch` |
+| **PowerShell** | `%USERPROFILE%\Documents\WindowsPowerShell` | 
+| **Flow Launcher** | `C:\Users\%UserProfile%\AppData\Roaming\FlowLauncher\Themes\` |  |
 
 
